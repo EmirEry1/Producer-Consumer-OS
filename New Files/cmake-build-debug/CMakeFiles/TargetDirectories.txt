@@ -1,0 +1,3 @@
+C:/Users/emirm/Desktop/CS 350/CS 350 HW2/New Files/cmake-build-debug/CMakeFiles/New_Files.dir
+C:/Users/emirm/Desktop/CS 350/CS 350 HW2/New Files/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/emirm/Desktop/CS 350/CS 350 HW2/New Files/cmake-build-debug/CMakeFiles/rebuild_cache.dir
